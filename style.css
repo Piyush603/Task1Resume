@@ -1,0 +1,64 @@
+
+#header
+    {
+    	background-color:lightBlue;
+    }	
+#first
+    {
+    	background-color:lightBlue;
+    }
+#second
+    {
+    	background-color:lightBlue;
+    }
+#third
+    {
+    	background-color:lightBlue;
+    }
+#fourth
+    {
+    	background-color:lightBlue;
+    }
+#fifth
+    {
+    	background-color:lightBlue;
+    }
+#sixth
+    {
+    	background-color:lightBlue;
+    }
+#seventh
+    {
+    	background-color:lightBlue;
+    }
+#eighth
+    {
+    	background-color:lightBlue;
+    }
+#ninth
+    {
+    	background-color:lightBlue;
+    }									    
+
+h2
+	{
+			color:black;
+			text-align:center ;
+	}
+#main
+{
+	width: 200px;
+	float: center;
+}	
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
